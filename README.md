@@ -2,29 +2,30 @@
 A beginner-friendly Employee Management System built using Python, Tkinter for the GUI, and MySQL as the database. This project allows you to add, view, update, promote, delete, and search employee records through a simple and intuitive graphical interface.
 
 Features:<br>
-✅ Add new employees with validation
-📋 View all employee records
-✏️ Update employee details (email, phone, address)
-💹 Promote employee by increasing salary
-🗑️ Delete employee record by ID
-🔍 Search employee by ID
-🖥️ Clean and user-friendly Tkinter interface
+✅ Add new employees with validation<br>
+📋 View all employee records<br>
+📋 View all employee records<br>
+✏️ Update employee details (email, phone, address)<br>
+💹 Promote employee by increasing salary<br>
+🗑️ Delete employee record by ID<br>
+🔍 Search employee by ID<br>
+🖥️ Clean and user-friendly Tkinter interface<br>
 
-🛠️Technologies Used
- Python 3.x
- Tkinter (GUI module)
- MySQL with mysql-connector-python
- VS Code (recommended IDE)
+🛠️Technologies Used:<br>
+ Python 3.x<br>
+ Tkinter (GUI module)<br>
+ MySQL with mysql-connector-python<br>
+ VS Code (recommended IDE)<br>
 
-employee-management/
-│
-├── main.py               # GUI and main menu (Tkinter)
-├── employee_ops.py       # All backend operations (CRUD)
-├── db_config.py          # MySQL connection configuration
-├── create_table.sql      # SQL script to create the employee table
-└── README.md             # Project description and usage
+employee-management/<br>
+│<br>
+├── main.py          # GUI and main menu (Tkinter)<br>
+├── employee_ops.py     # All backend operations (CRUD)<br>
+├── db_config.py          # MySQL connection configuration<br>
+├── create_table.sql      # SQL script to create the employee table<br>
+└── README.md             # Project description and usage<br>
 
-Setup Instructions:
+Setup Instructions:<br>
 
 1.Clone the repository
 git clone https://github.com/yourusername/employee-management.git
